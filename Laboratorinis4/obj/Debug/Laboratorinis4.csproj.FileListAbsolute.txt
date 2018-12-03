@@ -1,0 +1,7 @@
+C:\Users\Armis\source\repos\Laboratorinis4\bin\Debug\Laboratorinis4.exe.config
+C:\Users\Armis\source\repos\Laboratorinis4\bin\Debug\Laboratorinis4.exe
+C:\Users\Armis\source\repos\Laboratorinis4\bin\Debug\Laboratorinis4.pdb
+C:\Users\Armis\source\repos\Laboratorinis4\obj\Debug\Laboratorinis4.csprojAssemblyReference.cache
+C:\Users\Armis\source\repos\Laboratorinis4\obj\Debug\Laboratorinis4.csproj.CoreCompileInputs.cache
+C:\Users\Armis\source\repos\Laboratorinis4\obj\Debug\Laboratorinis4.exe
+C:\Users\Armis\source\repos\Laboratorinis4\obj\Debug\Laboratorinis4.pdb
